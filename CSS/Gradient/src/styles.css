@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    font-size: 72px;
+    background: linear-gradient(#eee, #333);
+    background-clip: text;
+    -webkit-text-fill-color: #fff;
+  }
+  
